@@ -1,0 +1,8 @@
+{
+  "name": "replicate-api",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "replicate": "latest"
+  }
+}
